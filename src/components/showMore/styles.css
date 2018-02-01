@@ -1,0 +1,20 @@
+.show-more__row {
+    justify-content: space-around;
+}
+
+.show-more__button {
+    height: 40px;
+    line-height: 40px;
+    width: 400px;
+    text-align: center;
+}
+
+.show-more__light-shadow {
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+}
+
+.show-more__button:hover {
+    cursor: pointer;
+}

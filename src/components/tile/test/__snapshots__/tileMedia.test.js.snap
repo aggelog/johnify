@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="tile-media__container"
+>
+  <div
+    className="tile-media__item-inside"
+  >
+    <div
+      className="tile-media__loading-container"
+    >
+      <div>
+        <span
+          className="l-1"
+        />
+        <span
+          className="l-2"
+        />
+        <span
+          className="l-3"
+        />
+        <span
+          className="l-4"
+        />
+        <span
+          className="l-5"
+        />
+        <span
+          className="l-6"
+        />
+      </div>
+    </div>
+    <img
+      alt="..."
+      className="tile-media__image tile-media__image-gif-loading"
+      onLoad={[Function]}
+      src="www.google.com"
+    />
+  </div>
+</div>
+`;

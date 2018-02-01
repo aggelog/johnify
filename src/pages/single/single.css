@@ -1,0 +1,9 @@
+.single-page__title-section {
+    text-align: center;
+}
+
+.single-page__action-bar {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}

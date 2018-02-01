@@ -1,0 +1,14 @@
+.tile__container {
+    min-height: 150px;
+    outline: 1px solid lightgray;
+    margin-bottom: 20px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.tile__shadow {
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+    -moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.75);
+}

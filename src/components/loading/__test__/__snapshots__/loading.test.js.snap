@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <span
+    className="l-1"
+  />
+  <span
+    className="l-2"
+  />
+  <span
+    className="l-3"
+  />
+  <span
+    className="l-4"
+  />
+  <span
+    className="l-5"
+  />
+  <span
+    className="l-6"
+  />
+</div>
+`;

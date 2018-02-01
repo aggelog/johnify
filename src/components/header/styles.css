@@ -1,0 +1,10 @@
+.application-header__container {
+    text-align: center;
+    display: block;
+}
+
+.application-header__link {
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+}

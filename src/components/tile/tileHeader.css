@@ -1,0 +1,15 @@
+.tile-header__container {
+    padding: 3px 5px;
+}
+
+.title-header__title {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+}
+
+.title-header__link {
+    text-decoration: none;
+    color: #333;
+}

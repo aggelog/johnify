@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "height": 100,
+      "margin": "auto",
+      "maxWidth": "100%",
+      "width": 100,
+    }
+  }
+>
+  <img
+    alt="..."
+    src="www.google.com"
+    style={
+      Object {
+        "maxWidth": "100%",
+      }
+    }
+  />
+</div>
+`;

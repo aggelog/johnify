@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="show-more__row row"
+>
+  <div
+    className="show-more__button show-more__light-shadow"
+    onClick={[Function]}
+  >
+    Give me more
+  </div>
+</div>
+`;
