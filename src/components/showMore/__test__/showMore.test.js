@@ -1,6 +1,7 @@
 import React from 'react';
-import ShowMore from '../index';
 import renderer from 'react-test-renderer';
+
+import ShowMore from '../index';
 
 it('renders correctly', () => {
   const tree = renderer

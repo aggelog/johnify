@@ -1,6 +1,7 @@
 import React from 'react';
-import Single from '../single';
 import renderer from 'react-test-renderer';
+
+import Single from '../single';
 
 it('renders correctly', () => {
   const tree = renderer

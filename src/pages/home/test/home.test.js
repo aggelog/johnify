@@ -1,6 +1,7 @@
 import React from 'react';
-import Home from '../home';
 import renderer from 'react-test-renderer';
+
+import Home from '../home';
 
 jest.mock('../../../containers/searchBar', () => 'SearchBar');
 jest.mock('../../../containers/gifsGrid', () => 'GifsGrid');

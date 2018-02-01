@@ -1,6 +1,7 @@
 import React from 'react';
-import TileMedia from '../tileMedia';
 import renderer from 'react-test-renderer';
+
+import TileMedia from '../tileMedia';
 
 it('renders correctly', () => {
   const tree = renderer

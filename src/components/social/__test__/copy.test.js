@@ -1,6 +1,7 @@
 import React from 'react';
-import CopyShareButton from '../copyShareButton';
 import renderer from 'react-test-renderer';
+
+import CopyShareButton from '../copyShareButton';
 
 it('renders correctly', () => {
   const tree = renderer

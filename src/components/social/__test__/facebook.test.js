@@ -1,6 +1,7 @@
 import React from 'react';
-import FacebookButton from '../fbShareButton';
 import renderer from 'react-test-renderer';
+
+import FacebookButton from '../fbShareButton';
 
 it('renders correctly', () => {
   const tree = renderer

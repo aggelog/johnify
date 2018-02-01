@@ -1,6 +1,7 @@
 import React from 'react';
-import SimpleImageTile from '../simpleImageTile';
 import renderer from 'react-test-renderer';
+
+import SimpleImageTile from '../simpleImageTile';
 
 it('renders correctly', () => {
   const tree = renderer

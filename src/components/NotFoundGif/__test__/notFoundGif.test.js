@@ -1,6 +1,7 @@
 import React from 'react';
-import NotFoundGif from '../index';
 import renderer from 'react-test-renderer';
+
+import NotFoundGif from '../index';
 
 it('renders correctly', () => {
   const tree = renderer

@@ -1,6 +1,7 @@
 import React from 'react';
-import SearchBar from '../index';
 import renderer from 'react-test-renderer';
+
+import SearchBar from '../index';
 
 it('renders correctly', () => {
   const tree = renderer

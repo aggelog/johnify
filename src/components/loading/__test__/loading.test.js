@@ -1,6 +1,7 @@
 import React from 'react';
-import Loading from '../index';
 import renderer from 'react-test-renderer';
+
+import Loading from '../index';
 
 it('renders correctly', () => {
   const tree = renderer

@@ -1,6 +1,7 @@
 import React from 'react';
-import TwitterButton from '../twitterShareButton';
 import renderer from 'react-test-renderer';
+
+import TwitterButton from '../twitterShareButton';
 
 it('renders correctly', () => {
   const tree = renderer

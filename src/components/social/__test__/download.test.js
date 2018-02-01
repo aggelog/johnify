@@ -1,6 +1,7 @@
 import React from 'react';
-import DownloadButton from '../downloadButton';
 import renderer from 'react-test-renderer';
+
+import DownloadButton from '../downloadButton';
 
 it('renders correctly', () => {
   const tree = renderer

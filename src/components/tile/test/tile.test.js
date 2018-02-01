@@ -1,6 +1,7 @@
 import React from 'react';
-import Tile from '../index';
 import renderer from 'react-test-renderer';
+
+import Tile from '../index';
 
 it('renders correctly', () => {
   const tree = renderer
